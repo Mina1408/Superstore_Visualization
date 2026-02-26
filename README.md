@@ -1,4 +1,4 @@
-# Retail Analytics: Superstore Profitability Analysis
+### Retail Analytics: Superstore Profitability Analysis
 
 **Analyzing 9,994 transactions to identify $127K+ in profit recovery opportunities**
 
@@ -16,7 +16,7 @@ I analyzed 4 years of retail transaction data (2015-2018) to answer critical bus
 4. High-Value Customers - 0.2% of customers drive 7.8% of revenue, VIP retention program
 5. Q4 Dependency - November-December = 30% of annual sales, Optimize holiday inventory
 
-# Visualizations
+### Visualizations
 1. Category Profitability
 ![Category (https://drive.google.com/file/d/1BL6gPQyL0q7CmjrDyfrmmLRUDFa4P3FH/view?usp=drivesdk)
 
@@ -35,11 +35,11 @@ Insight: Strong negative correlation - discounts above 30% almost guarantee loss
 Insight: Highly skewed - median order is $54 but mean is $230 due to high-value outliers
 
 7. Category × Region Performance
-![Heatmap](images/profitability_heatmap.png)
+![Heatmap](https://drive.google.com/file/d/1BraSAgHHBUC9holHIuvnT4NhjauWQKCE/view?usp=drivesdk)
 Insight: West + Office Supplies = $52K profit (best), Central + Furniture = -$2,871 (only loss)
 
 
-# Analysis Approach
+### Analysis Approach
 
 Tools Used: Python, Pandas, Matplotlib, Seaborn, Google Colab
 
@@ -51,7 +51,7 @@ Methodology:
 5. Visualization - Created 6 charts with business annotations
 6. Business Recommendations - Translated findings into actionable strategies
 
-# Business Recommendations
+### Business Recommendations
 1. Immediate Actions (0-30 days)
 - Cap discounts at 30% - Stops $127K annual profit leak
 - Review Central region Furniture - Eliminate $2,871 loss
@@ -62,14 +62,14 @@ Methodology:
 - Replicate West region's Office Supplies success
 - Optimize Q4 inventory for holiday peak
 
-# Dataset
+### Dataset
 
 Source:Sample Superstore (retail transactions)  
 Period: 2015-2018  
 Records: 9,994 transactions  
 Columns: Order Date, Region, Category, Sales, Discount, Profit, Customer Segment, Ship Mode
 
-# Technical Skills Demonstrated
+### Technical Skills Demonstrated
 
 - Python Programming - Pandas, NumPy for data manipulation
 - Data Analysis - Statistical analysis, correlation, segmentation
@@ -77,12 +77,3 @@ Columns: Order Date, Region, Category, Sales, Discount, Profit, Customer Segment
 - Business Intelligence - Translating data into strategy
 - Communication - Executive summaries, annotations, insights
 
-
-# What I Learned
-
-This project strengthened my ability to:
-- Extract insights from messy real-world data
-- Communicate technical findings to non-technical stakeholders
-- Balance quick wins (discount cap) with strategic initiatives (CLV tracking)
-- Create publication quality visualizations with clear annotations
-- Think like a business analyst, not just a data analyst
