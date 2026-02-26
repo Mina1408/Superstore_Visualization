@@ -23,19 +23,19 @@ I analyzed 4 years of retail transaction data (2015-2018) to answer critical bus
 Insight: Technology leads with 17.4% margin while Furniture severely underperforms at 2.5%
 
 3. Regional Sales Trends
-![Regional Trends](https://drive.google.com/file/d/1BOXaGFDjyGdnAWAvhhKEiUUQLSVSlQkJ/view?usp=drivesdk)
+![Regional Trends]  (https://drive.google.com/file/d/1BOXaGFDjyGdnAWAvhhKEiUUQLSVSlQkJ/view?usp=drivesdk)
 Insight: Clear Q4 seasonality - November and December drive 30% of annual revenue
 
 4. Discount Impact on Profit
-![Discount Analysis](https://drive.google.com/file/d/1BTEE1eeY-121bGGbnUet7UpUG6b_Jwlc/view?usp=drivesdk)
+![Discount Analysis]  (https://drive.google.com/file/d/1BTEE1eeY-121bGGbnUet7UpUG6b_Jwlc/view?usp=drivesdk)
 Insight: Strong negative correlation - discounts above 30% almost guarantee losses
 
 6. Sales Distribution
-![Distribution](https://drive.google.com/file/d/1BUePbbuFfSLgM5Rg-zVYzt0oMUjQHfgN/view?usp=drivesdk)
+![Distribution.  (https://drive.google.com/file/d/1BUePbbuFfSLgM5Rg-zVYzt0oMUjQHfgN/view?usp=drivesdk)
 Insight: Highly skewed - median order is $54 but mean is $230 due to high-value outliers
 
 7. Category × Region Performance
-![Heatmap](https://drive.google.com/file/d/1BraSAgHHBUC9holHIuvnT4NhjauWQKCE/view?usp=drivesdk)
+![Heatmap]  (https://drive.google.com/file/d/1BraSAgHHBUC9holHIuvnT4NhjauWQKCE/view?usp=drivesdk)
 Insight: West + Office Supplies = $52K profit (best), Central + Furniture = -$2,871 (only loss)
 
 
